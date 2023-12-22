@@ -1,0 +1,3 @@
+pyuic5.exe .\Client.ui -o .\Client_GUI.py
+
+pyrcc5.exe .\Icons.qrc -o .\Icons_qr.py

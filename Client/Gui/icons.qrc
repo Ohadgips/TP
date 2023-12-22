@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons.qrc</file>
+    <file>icons/menu-4-48.ico</file>
+    <file>icons/data-transfer-download-48.ico</file>
+    <file>icons/list-ingredients-48 (1).ico</file>
+    <file>icons/list-ingredients-48.ico</file>
+    <file>icons/pngwing.com (1).png</file>
+    <file>icons/work-in-progress (1).png</file>
+    <file>icons/shutdown-icon-18-48.ico</file>
+    <file>icons/folder-7-48 (1).ico</file>
+    <file>icons/folder-7-48.ico</file>
+    <file>icons/search-3-48.ico</file>
+    <file>icons/settingsG.ico</file>
+    <file>icons/settingsW.ico.ico</file>
+    <file>icons/SeekPng.com_history-icon-png_7815113.png</file>
+    <file>icons/upload-3-48 (1).ico</file>
+    <file>icons/upload-3-48.ico</file>
+    <file>icons/white down.ico</file>
+    <file>icons/appiconpng.png</file>
+    <file>icons/download-2-48.ico</file>
+    <file>icons/historique-icone-de-l-historique-gris.png</file>
+    <file>icons/upload-3-48.ico</file>
+  </qresource>
+</RCC>
